@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 
-Adiciona pipeline CI para rodar testes unitários e lint.
+Descrição do que a pr faz.
 
 ## 💡 Tipo de Mudança
 
@@ -10,33 +10,33 @@ Adiciona pipeline CI para rodar testes unitários e lint.
 - [ ] 🐛 Bugfix
 - [ ] ⚡️ Performance
 - [ ] 📝 Documentação
-- [x] 🔧 Outro:  chore
+- [ ] 🔧 Outro:  chore
 
 ## 📌 Motivação e Contexto
 
-Automatização da realização de testes unitários e lint code.
+Por que essa pr foi criada e qual o contexto?
 
 ## 🔍 Como Testar
 
-Qualquer _push_ realizado nas branches: `development`, `main` ou `feature/*` testa a funcionalidade.
+Explicar como testar a pr.
 
 ## ✅ Checklist
 
 - [ ] O código está documentado.
-- [x] Testes foram adicionados para novas features.
-- [x] O código foi testado localmente.
+- [ ] Testes foram adicionados para novas features.
+- [ ] O código foi testado localmente.
 - [ ] A documentação foi atualizada (se aplicável).
-- [x] O código segue o padrão de estilo do projeto.
+- [ ] O código segue o padrão de estilo do projeto.
 
 ## 🔗 Links e Referências
 
-[Documentação ESLint](https://eslint.org/docs/latest/)
-[Documentação Vitest](https://vitest.dev/guide/)
+Adicionar links úteis e referências relacionadas a pr.
 
 ## 👥 Revisores
 
-- [x] @PedroGuilhermeSilv 
+- [ ] @NomeDoRevisor
+- [ ] @NomeDoRevisor 
 
 ## 📌 Observações Adicionais
 
-Nenhuma observação adicional para o revisor.
+Adicionar observações adicionais da pr.
