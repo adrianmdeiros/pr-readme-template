@@ -10,7 +10,7 @@ Descrição do que a pr faz.
 - [ ] 🐛 Bugfix
 - [ ] ⚡️ Performance
 - [ ] 📝 Documentação
-- [ ] 🔧 Outro:  chore
+- [ ] 🔧 Outro: (especificar)
 
 ## 📌 Motivação e Contexto
 
